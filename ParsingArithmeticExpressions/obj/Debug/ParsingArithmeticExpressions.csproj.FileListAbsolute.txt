@@ -1,0 +1,7 @@
+C:\Users\Dasha\source\repos\ParsingArithmeticExpressions\ParsingArithmeticExpressions\bin\Debug\ParsingArithmeticExpressions.exe.config
+C:\Users\Dasha\source\repos\ParsingArithmeticExpressions\ParsingArithmeticExpressions\bin\Debug\ParsingArithmeticExpressions.exe
+C:\Users\Dasha\source\repos\ParsingArithmeticExpressions\ParsingArithmeticExpressions\bin\Debug\ParsingArithmeticExpressions.pdb
+C:\Users\Dasha\source\repos\ParsingArithmeticExpressions\ParsingArithmeticExpressions\obj\Debug\ParsingArithmeticExpressions.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\ParsingArithmeticExpressions\ParsingArithmeticExpressions\obj\Debug\ParsingArithmeticExpressions.csproj.CoreCompileInputs.cache
+C:\Users\Dasha\source\repos\ParsingArithmeticExpressions\ParsingArithmeticExpressions\obj\Debug\ParsingArithmeticExpressions.exe
+C:\Users\Dasha\source\repos\ParsingArithmeticExpressions\ParsingArithmeticExpressions\obj\Debug\ParsingArithmeticExpressions.pdb
